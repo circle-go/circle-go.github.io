@@ -127,6 +127,13 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
+/* Background Effects */
+
+.b-parallax{
+	background-attachment:fixed;
+}
+
+
 /* Dark theme */
 
 .d-bloc{
@@ -531,8 +538,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-path-overlay{
-	background-image:url("img/path-overlay.png");
+.bg-city-overlay{
+	background-image:url("img/city-overlay.png");
 }
 
 
