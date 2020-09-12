@@ -140,9 +140,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 	-o-background-size: auto!important;
 	background-size: auto!important;
 }
-.bg-center{
-	-webkit-background-size: auto;
-}
 
 
 /* Video Background Styles */
@@ -590,6 +587,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-map-overlay{
 	background-image:url("img/map-overlay.png");
+}
+.bg-White-20logo-20--20no-20background{
+	background-image:url("img/White%20logo%20-%20no%20background.png");
 }
 
 
