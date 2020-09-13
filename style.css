@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	    CircleGo
+	    Circlenetic
         Built with Blocs
 -----------------------------------------------------------------------------------*/
 
@@ -769,7 +769,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bloc-group-text-vc{
 	margin-top:0%;
 }
- }
+ div[class^="col-"], div[class*=" col-"]{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.full-width-bloc div[class^="col-"], .full-width-bloc div[class*=" col-"]{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+}
 /* Drop Down Navigation */
 @media (min-width: 767px) and (max-width: 991px){
 	
